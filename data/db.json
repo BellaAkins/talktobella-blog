@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "What to Do when you feel Down",
+      "body": "Everyone feels down sometimes but it's important to find ways to lift your spirits and stay positive.\nYou can start by engaging in activities that you enjoy, such as reading a book, going for a walk, or spending time with loved ones.\nAdditionally, practicing mindfulness and meditation can help you stay grounded and focused.\nRemember to take care of your physical health by eating well and getting enough sleep.\nIt's also helpful to talk to someone you trust about how you're feeling.\nSeeking professional help is always a good option if you need it.",
+      "author": "Bella",
+      "id": 1
+    },
+    {
+      "title": "What is Love",
+      "body": "Love is a complex and powerful emotion that can take many forms.\nIt can be romantic, platonic, familial, or self-directed.\nLove involves caring deeply for someone or something and wanting the best for them.\nIt can bring joy, fulfillment, and meaning to our lives.\nLove can also be challenging and require effort and sacrifice.\nIt's important to remember that love is not always easy, but it is always worth it.",
+      "author": "Bella",
+      "id": 2
+    },
+    {
+      "title": "How to Stay Healthy",
+      "body": "Staying healthy involves taking care of your physical, mental, and emotional well-being.\nThis includes eating a balanced diet, getting regular exercise, and getting enough sleep.\nIt's also important to manage stress and practice self-care.\nThis can involve engaging in activities that you enjoy, spending time with loved ones, and seeking professional help when needed.\nRemember to listen to your body and take care of yourself.",
+      "author": "Bella",
+      "id": 3
+    }
+  ]
+}
